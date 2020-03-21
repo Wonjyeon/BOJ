@@ -18,5 +18,11 @@
     <ClCompile Include="1967_트리의지름.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1068 트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5639 이진 검색 트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
