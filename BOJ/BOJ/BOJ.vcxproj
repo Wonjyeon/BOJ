@@ -140,7 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1068 트리.cpp" />
+    <ClCompile Include="11725 트리의 부모 찾기.cpp" />
+    <ClCompile Include="1197 최소 스패닝 트리.cpp" />
+    <ClCompile Include="1445 일요일 아침의 데이트.cpp" />
+    <ClCompile Include="1697 숨바꼭질.cpp" />
+    <ClCompile Include="17070 파이프옮기기1.cpp" />
     <ClCompile Include="1967_트리의지름.cpp" />
+    <ClCompile Include="1991 트리 순회.cpp" />
+    <ClCompile Include="2579 계단 오르기.cpp" />
+    <ClCompile Include="2606 바이러스.cpp" />
+    <ClCompile Include="3190 뱀.cpp" />
     <ClCompile Include="5639 이진 검색 트리.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
