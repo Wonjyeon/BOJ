@@ -37,4 +37,5 @@ int main() {
 	}
 	solve(1);
 	cout << MAX << endl;
+
 }
