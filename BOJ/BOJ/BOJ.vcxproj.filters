@@ -585,5 +585,11 @@
     <ClCompile Include="2557 Hello World.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2517 달리기(merge).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2517 달리기(segment).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
