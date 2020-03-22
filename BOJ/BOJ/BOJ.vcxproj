@@ -272,6 +272,8 @@
     <ClCompile Include="2475 검증수.cpp" />
     <ClCompile Include="2490 윷놀이.cpp" />
     <ClCompile Include="2504 괄호의 값.cpp" />
+    <ClCompile Include="2517 달리기(merge).cpp" />
+    <ClCompile Include="2517 달리기(segment).cpp" />
     <ClCompile Include="2557 Hello World.cpp" />
     <ClCompile Include="2558 A+B - 2.cpp" />
     <ClCompile Include="2588 곱셈.cpp" />
