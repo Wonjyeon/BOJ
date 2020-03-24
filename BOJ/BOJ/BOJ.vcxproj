@@ -200,6 +200,7 @@
     <ClCompile Include="1193 분수찾기.cpp" />
     <ClCompile Include="1197 최소 스패닝 트리.cpp" />
     <ClCompile Include="1260 DFS와 BFS.cpp" />
+    <ClCompile Include="1261 알고스팟.cpp" />
     <ClCompile Include="12789 도키도키 간식 드리미.cpp" />
     <ClCompile Include="1302 베스트셀러.cpp" />
     <ClCompile Include="1316 그룹 단어 체커.cpp" />
