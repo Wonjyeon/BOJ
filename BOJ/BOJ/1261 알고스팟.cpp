@@ -4,7 +4,7 @@
 using namespace std;
 
 const int INF = 987654321;
-int dist[101][101], map[101][101], visit[101][101], N, M;
+int dist[101][101], map[101][101], N, M;
 int dx[] = { 0,0,1,-1 };
 int dy[] = { 1,-1,0,0 };
 
