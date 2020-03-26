@@ -260,6 +260,7 @@
     <ClCompile Include="1966 프린터 큐.cpp" />
     <ClCompile Include="1967_트리의지름.cpp" />
     <ClCompile Include="1991 트리 순회.cpp" />
+    <ClCompile Include="1992 쿼드트리.cpp" />
     <ClCompile Include="2075 N번째 큰 수.cpp" />
     <ClCompile Include="2164 카드2.cpp" />
     <ClCompile Include="2178 미로 탐색.cpp" />
