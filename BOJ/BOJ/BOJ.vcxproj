@@ -148,6 +148,7 @@
     <ClCompile Include="1012 유기농 배추.cpp" />
     <ClCompile Include="1015 수열 정렬.cpp" />
     <ClCompile Include="10171 고양이.cpp" />
+    <ClCompile Include="1018 체스판 다시 칠하기.cpp" />
     <ClCompile Include="10250 ACM 호텔.cpp" />
     <ClCompile Include="1026 보물.cpp" />
     <ClCompile Include="10430 나머지.cpp" />
@@ -248,6 +249,7 @@
     <ClCompile Include="1697 숨바꼭질.cpp" />
     <ClCompile Include="17070 파이프옮기기1.cpp" />
     <ClCompile Include="1712 손익분기점.cpp" />
+    <ClCompile Include="17144 미세먼지 안녕!.cpp" />
     <ClCompile Include="17413 단어 뒤집기2.cpp" />
     <ClCompile Include="1743 음식물 피하기.cpp" />
     <ClCompile Include="17471 게리맨더링.cpp" />
@@ -255,6 +257,7 @@
     <ClCompile Include="1753 최적 경로.cpp" />
     <ClCompile Include="1764 듣보잡.cpp" />
     <ClCompile Include="1773 폭죽쇼.cpp" />
+    <ClCompile Include="1912 연속합.cpp" />
     <ClCompile Include="1916 최소 비용 구하기.cpp" />
     <ClCompile Include="1920 수 찾기.cpp" />
     <ClCompile Include="1924 2007년.cpp" />
@@ -335,6 +338,8 @@
     <ClCompile Include="8958 OX 퀴즈.cpp" />
     <ClCompile Include="9012 괄호.cpp" />
     <ClCompile Include="9095 1, 2, 3 더하기.cpp" />
+    <ClCompile Include="9251 LCS.cpp" />
+    <ClCompile Include="9252 LCS 2.cpp" />
     <ClCompile Include="9375 패션왕 신해빈.cpp" />
     <ClCompile Include="9498 시험 성적.cpp" />
   </ItemGroup>
