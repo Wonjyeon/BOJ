@@ -262,6 +262,7 @@
     <ClCompile Include="1764 듣보잡.cpp" />
     <ClCompile Include="1773 폭죽쇼.cpp" />
     <ClCompile Include="17822 원판 돌리기cpp.cpp" />
+    <ClCompile Include="17825 주사위 윷놀이.cpp" />
     <ClCompile Include="1912 연속합.cpp" />
     <ClCompile Include="1916 최소 비용 구하기.cpp" />
     <ClCompile Include="1920 수 찾기.cpp" />
