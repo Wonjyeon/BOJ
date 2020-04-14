@@ -199,6 +199,7 @@
     <ClCompile Include="11724 연결 요소의 개수.cpp" />
     <ClCompile Include="11725 트리의 부모 찾기.cpp" />
     <ClCompile Include="11726 2xn 타일링.cpp" />
+    <ClCompile Include="11727 2xn 타일링 2.cpp" />
     <ClCompile Include="1181 단어 정렬.cpp" />
     <ClCompile Include="1182 부분수열의 합.cpp" />
     <ClCompile Include="1193 분수찾기.cpp" />
@@ -355,6 +356,7 @@
     <ClCompile Include="9252 LCS 2.cpp" />
     <ClCompile Include="9375 패션왕 신해빈.cpp" />
     <ClCompile Include="9498 시험 성적.cpp" />
+    <ClCompile Include="9641 파도반 수열.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
