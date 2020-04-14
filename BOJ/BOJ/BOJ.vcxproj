@@ -181,6 +181,7 @@
     <ClCompile Include="11004 K번째 수.cpp" />
     <ClCompile Include="11021 A+B -7.cpp" />
     <ClCompile Include="11022 A+B - 8.cpp" />
+    <ClCompile Include="11052 카드 구매하기.cpp" />
     <ClCompile Include="11053 가장 긴 증가하는 부분 수열.cpp" />
     <ClCompile Include="1110 더하기 사이클.cpp" />
     <ClCompile Include="11399 ATM.cpp" />
