@@ -269,11 +269,13 @@
     <ClCompile Include="1916 최소 비용 구하기.cpp" />
     <ClCompile Include="1920 수 찾기.cpp" />
     <ClCompile Include="1924 2007년.cpp" />
+    <ClCompile Include="1932 정수 삼각형.cpp" />
     <ClCompile Include="1966 프린터 큐.cpp" />
     <ClCompile Include="1967_트리의지름.cpp" />
     <ClCompile Include="1991 트리 순회.cpp" />
     <ClCompile Include="1992 쿼드트리.cpp" />
     <ClCompile Include="2075 N번째 큰 수.cpp" />
+    <ClCompile Include="2156 포도주 시식.cpp" />
     <ClCompile Include="2164 카드2.cpp" />
     <ClCompile Include="2178 미로 탐색.cpp" />
     <ClCompile Include="2193 이친수.cpp" />
