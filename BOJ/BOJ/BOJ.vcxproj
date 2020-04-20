@@ -266,6 +266,7 @@
     <ClCompile Include="1753 최적 경로.cpp" />
     <ClCompile Include="1764 듣보잡.cpp" />
     <ClCompile Include="1773 폭죽쇼.cpp" />
+    <ClCompile Include="17779 게리맨더링2.cpp" />
     <ClCompile Include="17822 원판 돌리기cpp.cpp" />
     <ClCompile Include="17825 주사위 윷놀이.cpp" />
     <ClCompile Include="18808 스티커 붙이기.cpp" />
