@@ -256,6 +256,7 @@
     <ClCompile Include="17070 파이프옮기기1.cpp" />
     <ClCompile Include="1712 손익분기점.cpp" />
     <ClCompile Include="17140 이차원 배열과 연산.cpp" />
+    <ClCompile Include="17142 연구소3.cpp" />
     <ClCompile Include="17143 낚시왕.cpp" />
     <ClCompile Include="17144 미세먼지 안녕!.cpp" />
     <ClCompile Include="17406 배열 돌리기4.cpp" />

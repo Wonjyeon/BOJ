@@ -684,5 +684,8 @@
     <ClCompile Include="17779 게리맨더링2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="17142 연구소3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
