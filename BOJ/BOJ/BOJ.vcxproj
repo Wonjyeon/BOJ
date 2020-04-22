@@ -241,6 +241,7 @@
     <ClCompile Include="15664 N과 M(10).cpp" />
     <ClCompile Include="15666 N과 M(11).cpp" />
     <ClCompile Include="15666 N과 M(12).cpp" />
+    <ClCompile Include="15684 사다리 조작.cpp" />
     <ClCompile Include="15686 치킨 배달.cpp" />
     <ClCompile Include="15780 멀티탭 충분하니.cpp" />
     <ClCompile Include="15781 헬멧과 조끼.cpp" />
