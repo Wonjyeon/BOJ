@@ -217,6 +217,7 @@
     <ClCompile Include="1406 에디터.cpp" />
     <ClCompile Include="1427 소트인사이드.cpp" />
     <ClCompile Include="1445 일요일 아침의 데이트.cpp" />
+    <ClCompile Include="14503 로봇 청소기.cpp" />
     <ClCompile Include="14500 테트로미노.cpp" />
     <ClCompile Include="14501 퇴사.cpp" />
     <ClCompile Include="14502 연구소.cpp" />
@@ -242,6 +243,7 @@
     <ClCompile Include="15664 N과 M(10).cpp" />
     <ClCompile Include="15666 N과 M(11).cpp" />
     <ClCompile Include="15666 N과 M(12).cpp" />
+    <ClCompile Include="15683 감시.cpp" />
     <ClCompile Include="15684 사다리 조작.cpp" />
     <ClCompile Include="15686 치킨 배달.cpp" />
     <ClCompile Include="15780 멀티탭 충분하니.cpp" />
