@@ -217,6 +217,7 @@
     <ClCompile Include="1406 에디터.cpp" />
     <ClCompile Include="1427 소트인사이드.cpp" />
     <ClCompile Include="1445 일요일 아침의 데이트.cpp" />
+    <ClCompile Include="14500 테트로미노.cpp" />
     <ClCompile Include="14501 퇴사.cpp" />
     <ClCompile Include="14502 연구소.cpp" />
     <ClCompile Include="1463 1로 만들기.cpp" />
