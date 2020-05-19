@@ -142,6 +142,7 @@
     <ClCompile Include="1000 A+B.cpp" />
     <ClCompile Include="1001 A-B.cpp" />
     <ClCompile Include="10026 적록색약.cpp" />
+    <ClCompile Include="1003 피보나치 함수.cpp" />
     <ClCompile Include="10039 평균 점수.cpp" />
     <ClCompile Include="1008 AB.cpp" />
     <ClCompile Include="1010 다리 놓기.cpp" />
@@ -340,6 +341,7 @@
     <ClCompile Include="2739 구구단.cpp" />
     <ClCompile Include="2741 N 찍기.cpp" />
     <ClCompile Include="2742 기찍 N.cpp" />
+    <ClCompile Include="2748 피보나치 수2.cpp" />
     <ClCompile Include="2750 수 정렬하기.cpp" />
     <ClCompile Include="2751 수 정렬하기2.cpp" />
     <ClCompile Include="2753 윤년.cpp" />
