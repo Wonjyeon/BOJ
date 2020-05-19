@@ -304,6 +304,7 @@
     <ClCompile Include="2193 이친수.cpp" />
     <ClCompile Include="2206 벽 부수고 이동하기.cpp" />
     <ClCompile Include="2231 분해합.cpp" />
+    <ClCompile Include="2252 줄 세우기.cpp" />
     <ClCompile Include="2292 벌집.cpp" />
     <ClCompile Include="2309 일곱 난쟁이.cpp" />
     <ClCompile Include="2399 거리의 합.cpp" />
