@@ -178,10 +178,12 @@
     <ClCompile Include="10950 A+B -3.cpp" />
     <ClCompile Include="10951 A+B-4.cpp" />
     <ClCompile Include="10952 A+B-5.cpp" />
+    <ClCompile Include="10989 수 정렬하기3.cpp" />
     <ClCompile Include="10998 AxB.cpp" />
     <ClCompile Include="11004 K번째 수.cpp" />
     <ClCompile Include="11021 A+B -7.cpp" />
     <ClCompile Include="11022 A+B - 8.cpp" />
+    <ClCompile Include="11047 동전0.cpp" />
     <ClCompile Include="11052 카드 구매하기.cpp" />
     <ClCompile Include="11053 가장 긴 증가하는 부분 수열.cpp" />
     <ClCompile Include="1110 더하기 사이클.cpp" />
@@ -286,6 +288,7 @@
     <ClCompile Include="1920 수 찾기.cpp" />
     <ClCompile Include="1924 2007년.cpp" />
     <ClCompile Include="1929 소수 구하기.cpp" />
+    <ClCompile Include="1931 회의실배정.cpp" />
     <ClCompile Include="1932 정수 삼각형.cpp" />
     <ClCompile Include="1966 프린터 큐.cpp" />
     <ClCompile Include="1967_트리의지름.cpp" />
