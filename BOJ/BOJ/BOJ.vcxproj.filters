@@ -768,5 +768,8 @@
     <ClCompile Include="10869 사칙연산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="18110 solved.ac.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
