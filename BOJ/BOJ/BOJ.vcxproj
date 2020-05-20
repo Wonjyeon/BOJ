@@ -209,6 +209,7 @@
     <ClCompile Include="1182 부분수열의 합.cpp" />
     <ClCompile Include="1193 분수찾기.cpp" />
     <ClCompile Include="1197 최소 스패닝 트리.cpp" />
+    <ClCompile Include="12100 2048(Easy).cpp" />
     <ClCompile Include="1260 DFS와 BFS.cpp" />
     <ClCompile Include="1261 알고스팟.cpp" />
     <ClCompile Include="12789 도키도키 간식 드리미.cpp" />
