@@ -150,6 +150,7 @@
     <ClCompile Include="1012 유기농 배추.cpp" />
     <ClCompile Include="1015 수열 정렬.cpp" />
     <ClCompile Include="10171 고양이.cpp" />
+    <ClCompile Include="10172 개.cpp" />
     <ClCompile Include="1018 체스판 다시 칠하기.cpp" />
     <ClCompile Include="10250 ACM 호텔.cpp" />
     <ClCompile Include="1026 보물.cpp" />
@@ -167,12 +168,14 @@
     <ClCompile Include="10809 알파벳 찾기.cpp" />
     <ClCompile Include="10814 나이순 정렬.cpp" />
     <ClCompile Include="10815 숫자 카드.cpp" />
+    <ClCompile Include="10817 세 수.cpp" />
     <ClCompile Include="10818 최소, 최대.cpp" />
     <ClCompile Include="10825 국영수.cpp" />
     <ClCompile Include="10828 스택.cpp" />
     <ClCompile Include="10833 사과.cpp" />
     <ClCompile Include="10844 쉬운 계단 수.cpp" />
     <ClCompile Include="10845 큐.cpp" />
+    <ClCompile Include="10869 사칙연산.cpp" />
     <ClCompile Include="10870 피보나치 수 5.cpp" />
     <ClCompile Include="10871 X보다 작은 수.cpp" />
     <ClCompile Include="10872 팩토리얼.cpp" />
@@ -248,7 +251,7 @@
     <ClCompile Include="15657 N과 M(8).cpp" />
     <ClCompile Include="15663 N과 M(9).cpp" />
     <ClCompile Include="15664 N과 M(10).cpp" />
-    <ClCompile Include="15666 N과 M(11).cpp" />
+    <ClCompile Include="15665 N과 M%2811%29.cpp" />
     <ClCompile Include="15666 N과 M(12).cpp" />
     <ClCompile Include="15683 감시.cpp" />
     <ClCompile Include="15684 사다리 조작.cpp" />
@@ -277,7 +280,7 @@
     <ClCompile Include="1743 음식물 피하기.cpp" />
     <ClCompile Include="17471 게리맨더링.cpp" />
     <ClCompile Include="1748 수 이어 쓰기 1.cpp" />
-    <ClCompile Include="1753 최적 경로.cpp" />
+    <ClCompile Include="1753 최단경로.cpp" />
     <ClCompile Include="1764 듣보잡.cpp" />
     <ClCompile Include="1773 폭죽쇼.cpp" />
     <ClCompile Include="17779 게리맨더링2.cpp" />
@@ -298,7 +301,7 @@
     <ClCompile Include="1991 트리 순회.cpp" />
     <ClCompile Include="1992 쿼드트리.cpp" />
     <ClCompile Include="2075 N번째 큰 수.cpp" />
-    <ClCompile Include="2117 로프.cpp" />
+    <ClCompile Include="2217 로프.cpp" />
     <ClCompile Include="2156 포도주 시식.cpp" />
     <ClCompile Include="2163 초콜릿 자르기.cpp" />
     <ClCompile Include="2164 카드2.cpp" />
@@ -384,9 +387,9 @@
     <ClCompile Include="9251 LCS.cpp" />
     <ClCompile Include="9252 LCS 2.cpp" />
     <ClCompile Include="9375 패션왕 신해빈.cpp" />
-    <ClCompile Include="9456 스티커.cpp" />
+    <ClCompile Include="9465 스티커.cpp" />
     <ClCompile Include="9498 시험 성적.cpp" />
-    <ClCompile Include="9641 파도반 수열.cpp" />
+    <ClCompile Include="9461 파도반 수열.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

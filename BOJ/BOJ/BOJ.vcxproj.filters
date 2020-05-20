@@ -111,16 +111,10 @@
     <ClCompile Include="1543 문서 검색.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1753 최적 경로.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="11726 2xn 타일링.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="15666 N과 M(12).cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="15666 N과 M(11).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="15664 N과 M(10).cpp">
@@ -663,9 +657,6 @@
     <ClCompile Include="11053 가장 긴 증가하는 부분 수열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="9641 파도반 수열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="11727 2xn 타일링 2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -673,9 +664,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2163 초콜릿 자르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9456 스티커.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1010 다리 놓기.cpp">
@@ -744,9 +732,6 @@
     <ClCompile Include="1931 회의실배정.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2117 로프.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2252 줄 세우기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -757,6 +742,30 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="12100 2048(Easy).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1753 최단경로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2217 로프.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9465 스티커.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9461 파도반 수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15665 N과 M%2811%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10172 개.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10817 세 수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10869 사칙연산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -6,3 +6,4 @@ int main()
 	while (fgets(input, 101, stdin))
 		printf("%s", input);
 	return 0;
+}

@@ -12,3 +12,4 @@ int main()
 		n += i / 2 * 8 + i % 2 * (8 - (F - 1) * 2);
 	cout << n << endl;
 	return 0;
+}

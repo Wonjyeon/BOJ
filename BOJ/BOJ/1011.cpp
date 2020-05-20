@@ -1,18 +1,17 @@
 #include <iostream>
 #include <cmath>
-using namespace std;
 
+using namespace std;
 int main(void)
 {
-	ios_base::sync_with_stdio(0);	cin.tie(0);
+	ios_base::sync_with_stdio(0);
+	cin.tie(0);
 	int T;
 	cin >> T;
-
 	for (int t = 0; t < T; t++)
 	{
 		int x, y;
 		cin >> x >> y;
-
 		long long i = 1;
 		while (i * i <= (y - x))
 			i++;
