@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="1000 A+B.cpp" />
     <ClCompile Include="1001 A-B.cpp" />
+    <ClCompile Include="1002 터렛.cpp" />
     <ClCompile Include="10026 적록색약.cpp" />
     <ClCompile Include="1003 피보나치 함수.cpp" />
     <ClCompile Include="10039 평균 점수.cpp" />

@@ -780,5 +780,8 @@
     <ClCompile Include="4948 베르트랑 공준.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1002 터렛.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
