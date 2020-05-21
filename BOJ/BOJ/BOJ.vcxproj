@@ -271,6 +271,7 @@
     <ClCompile Include="1697 숨바꼭질.cpp" />
     <ClCompile Include="17070 파이프옮기기1.cpp" />
     <ClCompile Include="1712 손익분기점.cpp" />
+    <ClCompile Include="17135 캐슬 디펜스.cpp" />
     <ClCompile Include="17140 이차원 배열과 연산.cpp" />
     <ClCompile Include="17142 연구소3.cpp" />
     <ClCompile Include="17143 낚시왕.cpp" />
