@@ -777,5 +777,8 @@
     <ClCompile Include="11650 좌표 정렬하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4948 베르트랑 공준.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
