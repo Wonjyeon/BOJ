@@ -355,6 +355,7 @@
     <ClCompile Include="2753 윤년.cpp" />
     <ClCompile Include="2775 부녀회장이 될테야.cpp" />
     <ClCompile Include="2798 블랙잭.cpp" />
+    <ClCompile Include="2805 나무 자르기.cpp" />
     <ClCompile Include="2839 설탕 배달.cpp" />
     <ClCompile Include="2858 기숙사 바닥.cpp" />
     <ClCompile Include="2869 달팽이는 올라가고 싶다.cpp" />
