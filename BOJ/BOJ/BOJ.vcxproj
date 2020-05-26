@@ -191,6 +191,7 @@
     <ClCompile Include="11047 동전0.cpp" />
     <ClCompile Include="11052 카드 구매하기.cpp" />
     <ClCompile Include="11053 가장 긴 증가하는 부분 수열.cpp" />
+    <ClCompile Include="1107 리모컨.cpp" />
     <ClCompile Include="1110 더하기 사이클.cpp" />
     <ClCompile Include="11399 ATM.cpp" />
     <ClCompile Include="11403 경로 찾기.cpp" />
