@@ -300,6 +300,7 @@
     <ClCompile Include="1929 소수 구하기.cpp" />
     <ClCompile Include="1931 회의실배정.cpp" />
     <ClCompile Include="1932 정수 삼각형.cpp" />
+    <ClCompile Include="1939 중량제한.cpp" />
     <ClCompile Include="1966 프린터 큐.cpp" />
     <ClCompile Include="1967_트리의지름.cpp" />
     <ClCompile Include="1978 소수 찾기.cpp" />
