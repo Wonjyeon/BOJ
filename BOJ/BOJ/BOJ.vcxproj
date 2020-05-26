@@ -376,6 +376,7 @@
     <ClCompile Include="4641 Doubles.cpp" />
     <ClCompile Include="4673 셀프 넘버.cpp" />
     <ClCompile Include="4948 베르트랑 공준.cpp" />
+    <ClCompile Include="4949 균형잡힌 세상.cpp" />
     <ClCompile Include="4963 섬의 개수.cpp" />
     <ClCompile Include="5063 TGN.cpp" />
     <ClCompile Include="5354 J박스.cpp" />
