@@ -224,6 +224,7 @@
     <ClCompile Include="1325 효율적인 해킹.cpp" />
     <ClCompile Include="1330 두 수 비교하기.cpp" />
     <ClCompile Include="13458 시험 감독.cpp" />
+    <ClCompile Include="13460 구슬 탈출2.cpp" />
     <ClCompile Include="1406 에디터.cpp" />
     <ClCompile Include="1427 소트인사이드.cpp" />
     <ClCompile Include="1445 일요일 아침의 데이트.cpp" />
