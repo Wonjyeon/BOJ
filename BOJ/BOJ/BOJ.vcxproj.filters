@@ -801,5 +801,8 @@
     <ClCompile Include="13460 구슬 탈출2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3040 백설 공주와 일곱 난쟁이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
