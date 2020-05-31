@@ -1,24 +1,19 @@
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
-int N, ans, dp[10003], wine[10001];
-int max(int a, int b) {
-	return a > b ? a : b;
-}
+int N, value[100001], dp[3][100001];
+
 int main() {
 	ios::sync_with_stdio(0); cin.tie(0);
 	cin >> N;
 	for (int i = 1; i <= N; i++)
-		cin >> wine[i];
-	if (N == 1) {
-		cout << wine[1] << '\n';
-		return 0;
+		cin >> value[i];
+	dp[0][1] = 0, dp[1][1] = value[1], dp[2][1] = value[1];
+	for (int i = 2; i <= N; i++) {
+		dp[0][i] = max(max(dp[0][i - 1], dp[1][i - 1]), dp[2][i - 1]);
+		dp[1][i] = dp[0][i - 1] + value[i];
+		dp[2][i] = dp[1][i - 1] + value[i];
 	}
-	dp[1] = wine[1], dp[2] = wine[1] + wine[2];
-	for (int i = 3; i <= N; i++) {
-		int Max = max(dp[i - 1], wine[i] + dp[i - 2]);
-		Max = max(Max, wine[i] + wine[i - 1] + dp[i - 3]);
-		dp[i] = Max;
-	}
-	cout << dp[N] << '\n';
+	cout << max(max(dp[0][N], dp[1][N]), dp[2][N]) << endl;
 }
