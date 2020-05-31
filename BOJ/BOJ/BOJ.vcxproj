@@ -219,6 +219,7 @@
     <ClCompile Include="1260 DFS와 BFS.cpp" />
     <ClCompile Include="1261 알고스팟.cpp" />
     <ClCompile Include="12789 도키도키 간식 드리미.cpp" />
+    <ClCompile Include="12865 평범한 배낭.cpp" />
     <ClCompile Include="1302 베스트셀러.cpp" />
     <ClCompile Include="1316 그룹 단어 체커.cpp" />
     <ClCompile Include="1325 효율적인 해킹.cpp" />
