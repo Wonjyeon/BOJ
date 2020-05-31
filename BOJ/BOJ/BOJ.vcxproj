@@ -315,6 +315,7 @@
     <ClCompile Include="1991 트리 순회.cpp" />
     <ClCompile Include="1992 쿼드트리.cpp" />
     <ClCompile Include="2075 N번째 큰 수.cpp" />
+    <ClCompile Include="2133 타일 채우기.cpp" />
     <ClCompile Include="2217 로프.cpp" />
     <ClCompile Include="2156 포도주 시식.cpp" />
     <ClCompile Include="2163 초콜릿 자르기.cpp" />
