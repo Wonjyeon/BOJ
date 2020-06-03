@@ -180,6 +180,7 @@
     <ClCompile Include="10870 피보나치 수 5.cpp" />
     <ClCompile Include="10871 X보다 작은 수.cpp" />
     <ClCompile Include="10872 팩토리얼.cpp" />
+    <ClCompile Include="10881 프로도의 선물 포장.cpp" />
     <ClCompile Include="10950 A+B -3.cpp" />
     <ClCompile Include="10951 A+B-4.cpp" />
     <ClCompile Include="10952 A+B-5.cpp" />
