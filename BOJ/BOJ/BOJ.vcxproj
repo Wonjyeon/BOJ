@@ -380,6 +380,7 @@
     <ClCompile Include="3047 ABC.cpp" />
     <ClCompile Include="3052 나머지.cpp" />
     <ClCompile Include="3085 사탕 게임.cpp" />
+    <ClCompile Include="3163 떨어지는 개미.cpp" />
     <ClCompile Include="3190 뱀.cpp" />
     <ClCompile Include="4344 평균은 넘겠지.cpp" />
     <ClCompile Include="4641 Doubles.cpp" />
