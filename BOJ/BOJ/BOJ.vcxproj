@@ -298,6 +298,7 @@
     <ClCompile Include="17779 게리맨더링2.cpp" />
     <ClCompile Include="17822 원판 돌리기cpp.cpp" />
     <ClCompile Include="17825 주사위 윷놀이.cpp" />
+    <ClCompile Include="17837 새로운 게임2.cpp" />
     <ClCompile Include="18110 solved.ac.cpp" />
     <ClCompile Include="18808 스티커 붙이기.cpp" />
     <ClCompile Include="18809 Gaaaaaaaaaarden.cpp" />
