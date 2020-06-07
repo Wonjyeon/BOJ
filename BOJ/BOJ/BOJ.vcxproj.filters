@@ -837,5 +837,8 @@
     <ClCompile Include="10881 프로도의 선물 포장.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15898 피아의 아틀리에 ~신비한 대회의 연금술사~.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
