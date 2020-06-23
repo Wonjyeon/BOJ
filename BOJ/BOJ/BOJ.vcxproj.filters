@@ -840,5 +840,11 @@
     <ClCompile Include="15898 피아의 아틀리에 ~신비한 대회의 연금술사~.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2933 미네랄.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19236 청소년 상어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
