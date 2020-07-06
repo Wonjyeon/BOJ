@@ -849,5 +849,8 @@
     <ClCompile Include="19237 어른 상어.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="18883 N M 찍기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
