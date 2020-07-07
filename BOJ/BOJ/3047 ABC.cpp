@@ -25,4 +25,5 @@ int main()
 			cout << arr[2] << " ";
 	}
 	cout << endl;
+	return 0;
 }

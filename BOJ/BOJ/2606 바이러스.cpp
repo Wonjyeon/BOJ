@@ -38,4 +38,5 @@ int main() {
 	bfs(1);
 
 	cout << ans << endl;
+	return 0;
 }

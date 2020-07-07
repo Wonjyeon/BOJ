@@ -60,4 +60,5 @@ int main()
 		Max = max(Max, cnt);
 	}
 	cout << Max << endl;
+	return 0;
 }

@@ -57,4 +57,5 @@ int main() {
 		}
 		cout << arr[1] << '\n';
 	}
+	return 0;
 }

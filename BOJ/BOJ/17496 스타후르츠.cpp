@@ -10,4 +10,5 @@ int main() {
 	}
 	ans = (day - 1)*C*P;
 	cout << ans << '\n';
+	return 0;
 }

@@ -35,4 +35,5 @@ int main() {
 	}
 	prim();
 	cout << result << endl;
+	return 0;
 }

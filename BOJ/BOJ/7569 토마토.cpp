@@ -56,4 +56,5 @@ int main() {
 	}
 	if (total == 0) cout << 0 << '\n';
 	else cout << bfs() << '\n';
+	return 0;
 }

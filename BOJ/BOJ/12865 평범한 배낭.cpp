@@ -15,4 +15,5 @@ int main() {
 		}
 	}
 	cout << dp[N][K] << '\n';
+	return 0;
 }

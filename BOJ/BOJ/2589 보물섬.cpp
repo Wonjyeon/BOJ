@@ -69,4 +69,5 @@ int main() {
 		}
 	}
 	cout << MaxPath << endl;
+	return 0;
 }

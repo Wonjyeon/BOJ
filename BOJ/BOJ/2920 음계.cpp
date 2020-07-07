@@ -23,4 +23,5 @@ int main()
 		printf("descending\n");
 	else
 		printf("mixed\n");
+	return 0;
 }

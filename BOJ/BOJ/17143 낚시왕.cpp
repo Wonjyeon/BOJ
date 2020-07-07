@@ -99,4 +99,5 @@ int main() {
 		Move();
 	}
 	cout << ans << '\n';
+	return 0;
 }

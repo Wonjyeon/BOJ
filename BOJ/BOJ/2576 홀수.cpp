@@ -24,4 +24,5 @@ int main()
 	else {
 		cout << sum << endl << min << endl;
 	}
+	return 0;
 }

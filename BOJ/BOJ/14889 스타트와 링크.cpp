@@ -39,4 +39,5 @@ int main() {
 	}
 	dfs(0, 0);
 	cout << ans << endl;
+	return 0;
 }

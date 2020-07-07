@@ -60,4 +60,5 @@ int main() {
 		time++;
 	}
 	cout << time << endl << cnt << endl;
+	return 0;
 }

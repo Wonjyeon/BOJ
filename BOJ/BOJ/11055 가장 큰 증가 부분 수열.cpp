@@ -20,4 +20,5 @@ int main() {
 	for (int i = 1; i <= N; i++)
 		ans = max(ans, dp[i]);
 	cout << ans << '\n';
+	return 0;
 }

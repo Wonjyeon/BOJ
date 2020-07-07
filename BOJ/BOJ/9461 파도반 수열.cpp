@@ -12,4 +12,5 @@ int main() {
 		cin >> N;
 		cout << dp[N] << '\n';
 	}
+	return 0;
 }

@@ -63,6 +63,6 @@ int main()
 				map[i][j] = 0;
 			}
 		}
-
 	}
+	return 0;
 }

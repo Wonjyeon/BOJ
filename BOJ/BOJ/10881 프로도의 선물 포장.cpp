@@ -55,4 +55,5 @@ int main() {
 			solve(i, 0, 0);
 		cout << ans << '\n';
 	}
+	return 0;
 }

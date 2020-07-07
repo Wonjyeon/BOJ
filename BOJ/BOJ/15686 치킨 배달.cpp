@@ -54,4 +54,5 @@ int main() {
 	}
 	solve(0, 0);
 	cout << minSum << endl;
+	return 0;
 }

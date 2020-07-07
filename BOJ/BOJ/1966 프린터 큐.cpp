@@ -40,4 +40,5 @@ int main()
 				print.push({ index,value });
 		}
 	}
+	return 0;
 }

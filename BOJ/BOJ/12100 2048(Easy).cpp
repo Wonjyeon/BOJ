@@ -188,4 +188,5 @@ int main() {
 	}
 	dfs(0, 0, 5);
 	cout << Max << '\n';
+	return 0;
 }

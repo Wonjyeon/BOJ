@@ -35,4 +35,5 @@ int main()
 		cout << str[i] << "\n";
 		temp = str[i];
 	}
+	return 0;
 }

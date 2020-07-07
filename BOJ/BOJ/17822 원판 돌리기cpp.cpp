@@ -103,4 +103,5 @@ int main() {
 		change();
 	}
 	cout << total << '\n';
+	return 0;
 }

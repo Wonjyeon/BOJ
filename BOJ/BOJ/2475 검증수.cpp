@@ -14,4 +14,5 @@ int main()
 		sum += pow(snum, 2.0);
 	}
 	cout << sum % 10 << endl;
+	return 0;
 }

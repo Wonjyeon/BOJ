@@ -81,4 +81,5 @@ int main() {
 		cout << time - 1 << endl;
 	else
 		cout << 0 << endl;
+	return 0;
 }

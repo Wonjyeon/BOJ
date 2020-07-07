@@ -54,4 +54,5 @@ int main() {
 	}
 	dfs(0, 1, 0);
 	cout << ans << endl;
+	return 0;
 }

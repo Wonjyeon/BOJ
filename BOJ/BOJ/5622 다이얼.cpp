@@ -69,4 +69,5 @@ int main()
 		i++;
 	}
 	printf("%d\n", sum);
+	return 0;
 }

@@ -74,4 +74,5 @@ int main() {
 	dfs(1, 0);
 	if (Min == INF) Min = -1;
 	cout << Min << '\n';
+	return 0;
 }

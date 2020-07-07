@@ -131,4 +131,5 @@ int main() {
 	}
 	dfs(0);
 	cout << ans << '\n';
+	return 0;
 }

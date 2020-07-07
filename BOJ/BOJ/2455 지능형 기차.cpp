@@ -15,4 +15,5 @@ int main()
 		m = max(m, sum);
 	}
 	cout << m << endl;
+	return 0;
 }

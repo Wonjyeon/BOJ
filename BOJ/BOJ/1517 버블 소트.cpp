@@ -45,4 +45,5 @@ int main() {
 		cin >> arr[i];
 	merge_sort(0, N - 1);
 	cout << ans << '\n';
+	return 0;
 }

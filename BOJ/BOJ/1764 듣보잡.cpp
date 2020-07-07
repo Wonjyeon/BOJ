@@ -31,4 +31,5 @@ int main()
 	cout << s.size() << endl;
 	for (auto it : s)
 		cout << it << endl;
+	return 0;
 }

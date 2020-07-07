@@ -19,4 +19,5 @@ int main() {
 		cnt = n / (day - night) + 2;
 	}
 	printf("%d\n", cnt);
+	return 0;
 }

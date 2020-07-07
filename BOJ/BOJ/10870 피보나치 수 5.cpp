@@ -17,5 +17,6 @@ int main()
 	scanf("%d", &N);
 
 	cout << fibo(N) << endl;
+	return 0;
 }
 

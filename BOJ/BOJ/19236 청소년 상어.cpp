@@ -87,4 +87,5 @@ int main() {
 	map[0][0] = 17;						// (0, 0)¿¡ »ó¾î id
 	moving(ans);
 	cout << ans << '\n';
+	return 0;
 }

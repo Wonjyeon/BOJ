@@ -29,4 +29,5 @@ int main()
 			cout << "false" << endl;
 		a = 0;
 	}
+	return 0;
 }

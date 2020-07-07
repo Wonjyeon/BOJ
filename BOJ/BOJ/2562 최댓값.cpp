@@ -21,4 +21,5 @@ int main()
 		}
 	}
 	cout << max << endl << ans << endl;
+	return 0;
 }

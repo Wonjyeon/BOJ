@@ -38,4 +38,5 @@ int main() {
 		}
 	}
 	cout << dist[N - 1][M - 1] << '\n';
+	return 0;
 }

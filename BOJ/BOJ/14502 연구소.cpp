@@ -65,4 +65,5 @@ int main() {
 	}
 	comb(0);
 	cout << (N*M) - wall_cnt - 3 - min_v << endl;
+	return 0;
 }

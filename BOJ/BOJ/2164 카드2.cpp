@@ -23,5 +23,5 @@ int main()
 		cardSet.pop();
 	}
 	cout << cardSet.front() << endl;
-
+	return 0;
 }

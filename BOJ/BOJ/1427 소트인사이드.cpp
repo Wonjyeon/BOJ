@@ -10,4 +10,5 @@ int main()
 	sort(n.begin(), n.end());
 	reverse(n.begin(), n.end());
 	cout << n << endl;
+	return 0;
 }

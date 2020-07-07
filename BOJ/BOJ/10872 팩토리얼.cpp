@@ -12,4 +12,5 @@ int main()
 		ans *= i;
 	}
 	printf("%d\n", ans);
+	return 0;
 }

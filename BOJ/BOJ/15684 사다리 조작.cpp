@@ -50,4 +50,5 @@ int main() {
 	dfs(1, 0);
 	if (ans == 10) ans = -1;
 	cout << ans << '\n';
+	return 0;
 }

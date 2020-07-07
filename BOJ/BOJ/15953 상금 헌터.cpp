@@ -35,4 +35,5 @@ int main()
 
 		cout << price << endl;
 	}
+	return 0;
 }

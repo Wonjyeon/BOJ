@@ -32,4 +32,5 @@ int main()
 		sum += (arr[1] - 1) / 36 + 1;
 
 	cout << sum << endl;
+	return 0;
 }

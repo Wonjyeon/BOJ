@@ -24,5 +24,5 @@ int main()
 	ans = num[1] + 10 * num[0];
 	ans *= pow(10, num[2]);
 	cout << ans << endl;
-
+	return 0;
 }

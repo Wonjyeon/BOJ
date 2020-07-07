@@ -32,4 +32,5 @@ int main() {
 			left = mid;
 	}
 	cout << mid << '\n';
+	return 0;
 }

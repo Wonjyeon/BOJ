@@ -41,4 +41,5 @@ int main() {
 		}
 	}
 	cout << LCS << '\n';
+	return 0;
 }

@@ -33,4 +33,5 @@ int main()
 		avg = 0;
 		std = 0;
 	}
+	return 0;
 }

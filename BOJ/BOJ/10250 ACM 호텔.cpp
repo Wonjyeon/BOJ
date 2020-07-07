@@ -29,4 +29,5 @@ int main() {
 			cout << y << x << endl;
 		}
 	}
+	return 0;
 }

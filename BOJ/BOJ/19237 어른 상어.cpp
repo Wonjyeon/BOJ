@@ -112,4 +112,5 @@ int main() {
 		}
 	}
 	cout << moving() << endl;
+	return 0;
 }

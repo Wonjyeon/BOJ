@@ -36,4 +36,5 @@ int main()
 	}
 	sort(list, list + N);
 	func(0);
+	return 0;
 }

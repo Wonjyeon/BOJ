@@ -9,4 +9,5 @@ int main() {
 		if (a<x)
 			printf("%d ", a);
 	}
+	return 0;
 }

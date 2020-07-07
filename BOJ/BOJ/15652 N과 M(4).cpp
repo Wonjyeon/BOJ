@@ -23,4 +23,5 @@ int main()
 {
 	scanf("%d %d", &N, &M);
 	func(1, 0);
+	return 0;
 }

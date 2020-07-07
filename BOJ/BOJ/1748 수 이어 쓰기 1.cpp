@@ -26,4 +26,5 @@ int main()
 	}
 	sum += (a + 1)*(N - pow(10, a) + 1);
 	cout << sum;
+	return 0;
 }

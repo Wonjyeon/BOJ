@@ -83,4 +83,5 @@ int main() {
 	}
 	solve(0);
 	cout << MIN << '\n';
+	return 0;
 }

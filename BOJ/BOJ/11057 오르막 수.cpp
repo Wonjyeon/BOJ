@@ -19,4 +19,5 @@ int main() {
 	for (int i = 0; i < 10; i++)
 		ans += dp[N][i];
 	cout << ans % 10007 << endl;
+	return 0;
 }

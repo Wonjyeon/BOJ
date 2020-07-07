@@ -32,4 +32,5 @@ int main() {
 		else cout << "yes" << endl;
 	}
 
+	return 0;
 }

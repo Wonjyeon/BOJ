@@ -29,4 +29,5 @@ int main() {
 		}
 	}
 	solve(0, 0, N);
+	return 0;
 }

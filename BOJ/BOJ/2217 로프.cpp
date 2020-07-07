@@ -20,4 +20,5 @@ int main() {
 		cnt++;
 	}
 	cout << ans << '\n';
+	return 0;
 }

@@ -17,4 +17,5 @@ int main()
 		range += tmp;
 	}
 	cout << cnt;
+	return 0;
 }

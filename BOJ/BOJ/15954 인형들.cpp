@@ -47,4 +47,5 @@ int main()
 	}
 
 	printf("%.11lf\n", sqrt(ans));
+	return 0;
 }

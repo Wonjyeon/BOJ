@@ -14,4 +14,5 @@ int main()
 	}
 	sort(arr, arr + N);
 	printf("%d\n", arr[K - 1]);
+	return 0;
 }

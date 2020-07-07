@@ -67,4 +67,5 @@ int main()
 	memset(visit, 0, sizeof(visit));
 	bfs(v);
 	puts("");
+	return 0;
 }

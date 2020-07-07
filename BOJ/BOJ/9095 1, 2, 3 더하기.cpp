@@ -17,4 +17,5 @@ int main()
 		}
 		cout << arr[N] << endl;
 	}
+	return 0;
 }

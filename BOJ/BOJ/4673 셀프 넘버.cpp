@@ -42,4 +42,5 @@ int main()
 		if (arr[i] != 0)
 			cout << arr[i] << endl;
 	}
+	return 0;
 }

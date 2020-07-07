@@ -18,4 +18,5 @@ int main() {
 		}
 		cout << max(dp[0][N], dp[1][N]) << '\n';
 	}
+	return 0;
 }

@@ -23,4 +23,5 @@ int main() {
 		avg = round(sum / (N - (2 * cnt)));
 		cout << avg << '\n';
 	}
+	return 0;
 }

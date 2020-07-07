@@ -49,4 +49,5 @@ int main()
 		sum += A[num - i - 1] * seq2[i];
 	}
 	printf("%d\n", sum);
+	return 0;
 }

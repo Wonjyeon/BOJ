@@ -39,4 +39,5 @@ int main()
 		printf("%c\n", k + 65);
 	else if (ans > 1)
 		printf("?\n");
+	return 0;
 }

@@ -76,4 +76,5 @@ int main() {
 		time++;
 	}
 	cout << time + 1 << endl;
+	return 0;
 }

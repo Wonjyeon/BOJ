@@ -50,4 +50,5 @@ int main()
 			break;
 	}
 	printf("%d\n", cash);
+	return 0;
 }

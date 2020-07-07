@@ -18,4 +18,5 @@ int main() {
 		}
 	}
 	cout << dp[0][0] << '\n';
+	return 0;
 }

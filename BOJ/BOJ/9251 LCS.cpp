@@ -27,4 +27,5 @@ int main() {
 		LCS_length = max(LCS_length, MAX);
 	}
 	cout << LCS_length << '\n';
+	return 0;
 }

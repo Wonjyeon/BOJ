@@ -30,4 +30,5 @@ int main() {
 		if (!check[n]) ans++;
 	}
 	cout << ans << '\n';
+	return 0;
 }

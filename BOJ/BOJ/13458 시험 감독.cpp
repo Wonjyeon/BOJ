@@ -26,4 +26,5 @@ int main()
 			sum += (num / C) + 1;
 	}
 	cout << sum << endl;
+	return 0;
 }

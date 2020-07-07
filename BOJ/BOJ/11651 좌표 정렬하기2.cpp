@@ -32,4 +32,5 @@ int main()
 	{
 		cout << p[i].first << " " << p[i].second << "\n";
 	}
+	return 0;
 }

@@ -18,4 +18,5 @@ int main()
 		sum += app;
 	}
 	cout << sum;
+	return 0;
 }

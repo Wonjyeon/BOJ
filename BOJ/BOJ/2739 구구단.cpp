@@ -7,4 +7,5 @@ int main()
 	cin >> num;
 	for (i = 1; i <= 9; i++)
 		cout << num << " * " << i << " = " << num*i << endl;
+	return 0;
 }

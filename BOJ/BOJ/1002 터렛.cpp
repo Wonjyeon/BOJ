@@ -29,4 +29,5 @@ int main() {
 			else cout << "0\n";
 		}
 	}
+	return 0;
 }

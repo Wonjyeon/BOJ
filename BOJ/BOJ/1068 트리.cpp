@@ -39,4 +39,5 @@ int main() {
 	}
 	solve(root);
 	cout << ans << endl;
+	return 0;
 }

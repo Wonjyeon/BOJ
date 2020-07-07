@@ -22,4 +22,5 @@ int main() {
 	int i = 0;
 	for (i; scanf("%d", tree + i) > 0; i++);
 	postorder(0, i);
+	return 0;
 }

@@ -72,4 +72,5 @@ int main() {
 	bfs();
 	if (ans == INF) ans = -1;
 	cout << ans << '\n';
+	return 0;
 }

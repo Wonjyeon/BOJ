@@ -85,4 +85,5 @@ int main() {
 		else break;
 	}
 	cout << time << '\n';
+	return 0;
 }

@@ -16,4 +16,5 @@ int main() {
 		dp[2][i] = dp[1][i - 1] + value[i];
 	}
 	cout << max(max(dp[0][N], dp[1][N]), dp[2][N]) << endl;
+	return 0;
 }

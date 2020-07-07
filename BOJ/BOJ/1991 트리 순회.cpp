@@ -42,4 +42,5 @@ int main() {
 	cout << '\n';
 	postorder(0);
 	cout << '\n';
+	return 0;
 }

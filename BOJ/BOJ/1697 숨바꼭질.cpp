@@ -50,4 +50,5 @@ int main() {
 	else
 		ans = bfs(N);
 	cout << ans << endl;
+	return 0;
 }

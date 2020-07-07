@@ -17,4 +17,5 @@ int main() {
 		cin >> N;
 		cout << fibo[N][0] << ' ' << fibo[N][1] << '\n';
 	}
+	return 0;
 }

@@ -50,4 +50,5 @@ int main()
 			break;
 	}
 	cout << tot << endl;
+	return 0;
 }

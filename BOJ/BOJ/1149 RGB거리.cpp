@@ -18,4 +18,5 @@ int main() {
 		dp[i][2] = min(dp[i - 1][1], dp[i - 1][0]) + color[i][2];
 	}
 	cout << min(min(dp[N][0], dp[N][1]), dp[N][2]) << endl;
+	return 0;
 }

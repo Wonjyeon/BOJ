@@ -109,4 +109,5 @@ int main() {
 	available = v.size();
 	select(0, G, R);
 	cout << ans << '\n';
+	return 0;
 }

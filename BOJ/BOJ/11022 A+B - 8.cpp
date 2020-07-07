@@ -12,4 +12,5 @@ int main()
 		cin >> a >> b;
 		cout << "Case #" << tc << ": " << a << " + " << b << " = " << a + b << endl;
 	}
+	return 0;
 }

@@ -35,4 +35,5 @@ int main()
 		wordnum--;
 	}
 	printf("%d\n", cnt);
+	return 0;
 }

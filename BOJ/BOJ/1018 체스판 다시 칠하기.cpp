@@ -53,4 +53,5 @@ int main() {
 		}
 	}
 	cout << Min << '\n';
+	return 0;
 }

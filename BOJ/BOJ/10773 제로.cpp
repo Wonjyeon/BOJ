@@ -22,4 +22,5 @@ int main()
 		st.pop();
 	}
 	cout << ans << endl;
+	return 0;
 }

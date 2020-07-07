@@ -56,4 +56,5 @@ int main() {
 			high = mid - 1;
 	}
 	cout << ans << '\n';
+	return 0;
 }

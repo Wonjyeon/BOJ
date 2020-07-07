@@ -855,5 +855,8 @@
     <ClCompile Include="17496 스타후르츠.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="18870 좌표 압축.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

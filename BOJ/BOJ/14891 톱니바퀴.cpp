@@ -76,4 +76,5 @@ int main() {
 		ans += pow(2, i - 1);
 	}
 	cout << ans << '\n';
+	return 0;
 }

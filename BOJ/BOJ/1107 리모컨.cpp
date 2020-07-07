@@ -35,4 +35,5 @@ int main() {
 			ans = min(ans, len + abs(N - c));
 	}
 	cout << ans << '\n';
+	return 0;
 }

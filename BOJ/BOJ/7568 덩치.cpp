@@ -26,4 +26,5 @@ int main()
 		cout << cnt[i] << " ";
 	}
 
+	return 0;
 }

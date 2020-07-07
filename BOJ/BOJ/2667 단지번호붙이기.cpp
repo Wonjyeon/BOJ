@@ -59,4 +59,5 @@ int main()
 		cout << groups[i] << endl;
 	}
 
+	return 0;
 }

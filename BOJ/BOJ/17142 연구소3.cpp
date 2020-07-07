@@ -82,4 +82,5 @@ int main() {
 	dfs(0, 0);
 	if (ans == INF) ans = -1;
 	cout << ans << '\n';
+	return 0;
 }

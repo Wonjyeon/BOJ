@@ -13,4 +13,5 @@ int main()
 		s.insert(n % 42);
 	}
 	cout << s.size() << endl;
+	return 0;
 }

@@ -28,4 +28,5 @@ int main() {
 	for (int i = 0; i < M; i++)
 		cout << Binary_Search(Find[i]) << ' ';
 	cout << '\n';
+	return 0;
 }

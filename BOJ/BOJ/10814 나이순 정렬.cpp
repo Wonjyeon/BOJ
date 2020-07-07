@@ -34,4 +34,5 @@ int main()
 	{
 		cout << people[i].first << " " << people[i].second.first << "\n";
 	}
+	return 0;
 }

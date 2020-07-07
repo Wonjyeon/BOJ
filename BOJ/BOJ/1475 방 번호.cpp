@@ -30,4 +30,5 @@ int main()
 		max = temp;
 
 	cout << max << endl;
+	return 0;
 }

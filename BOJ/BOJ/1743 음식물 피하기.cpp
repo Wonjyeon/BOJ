@@ -59,4 +59,5 @@ int main()
 		}
 	}
 	cout << Max << endl;
+	return 0;
 }

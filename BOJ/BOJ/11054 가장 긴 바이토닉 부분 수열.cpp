@@ -29,4 +29,5 @@ int main() {
 		ans = max(ans, dp[i][0] + dp[i][1] - 1);
 	}
 	cout << ans << '\n';
+	return 0;
 }

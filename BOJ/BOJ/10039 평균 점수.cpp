@@ -15,4 +15,5 @@ int main()
 	}
 	avg = sum / 5;
 	printf("%d\n", avg);
+	return 0;
 }

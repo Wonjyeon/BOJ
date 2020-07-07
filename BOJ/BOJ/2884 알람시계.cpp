@@ -15,4 +15,5 @@ int main()
 			h += 24;
 	}
 	cout << h << " " << m << endl;
+	return 0;
 }

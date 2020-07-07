@@ -24,4 +24,5 @@ int main()
 		printf("%d\n", a);
 	else if (b > a)
 		printf("%d\n", b);
+	return 0;
 }

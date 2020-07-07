@@ -11,4 +11,5 @@ int main() {
 		fibo[i] = fibo[i - 1] + fibo[i - 2];
 	}
 	cout << fibo[N] << '\n';
+	return 0;
 }

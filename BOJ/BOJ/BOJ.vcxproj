@@ -306,6 +306,7 @@
     <ClCompile Include="18110 solved.ac.cpp" />
     <ClCompile Include="18808 스티커 붙이기.cpp" />
     <ClCompile Include="18809 Gaaaaaaaaaarden.cpp" />
+    <ClCompile Include="18870 좌표 압축.cpp" />
     <ClCompile Include="18883 N M 찍기.cpp" />
     <ClCompile Include="1912 연속합.cpp" />
     <ClCompile Include="1916 최소 비용 구하기.cpp" />

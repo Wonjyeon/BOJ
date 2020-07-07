@@ -51,4 +51,5 @@ int main()
 	{
 		printf("%d\n", cnt[i]);
 	}
+	return 0;
 }

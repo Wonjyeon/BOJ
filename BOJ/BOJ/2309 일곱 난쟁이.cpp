@@ -52,4 +52,5 @@ int main()
 			continue;
 		printf("%d\n", dwarf[k]);
 	}
+	return 0;
 }

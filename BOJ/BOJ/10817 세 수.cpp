@@ -13,4 +13,5 @@ int main()
 		printf("%d\n", n2);
 	else
 		printf("%d\n", n3);
+	return 0;
 }

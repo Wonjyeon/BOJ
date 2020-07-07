@@ -10,4 +10,5 @@ int main() {
 		cout << '<' << endl;
 	else
 		cout << "==" << endl;
+	return 0;
 }

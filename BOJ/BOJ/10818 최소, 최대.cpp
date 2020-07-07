@@ -20,4 +20,5 @@ int main()
 			min = n;
 	}
 	cout << min << " " << max << endl;
+	return 0;
 }

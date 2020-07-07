@@ -24,5 +24,5 @@ int main()
 	cout << fixed;
 	cout.precision(2);
 	cout << total / n << endl;
-
+	return 0;
 }
