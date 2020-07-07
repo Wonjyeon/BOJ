@@ -4,20 +4,20 @@
 using namespace std;
 
 int N;
-vector<int> v, vc;
+vector<int> vNum, vSort;
 
 int main() {
 	ios::sync_with_stdio(0); cin.tie(0);
 	cin >> N;
-	v.assign(N, 0);
+	vNum.assign(N, 0);
 	for (int i = 0; i < N; i++) {
-		cin >> v[i];
-		vc.push_back(v[i]);
+		cin >> vNum[i];
+		vSort.push_back(vNum[i]);
 	}
-	sort(vc.begin(), vc.end());
-	vc.erase(unique(vc.begin(), vc.end()), vc.end());
-	for (auto i : v) {
-		int cnt = lower_bound(vc.begin(), vc.end(), i) - vc.begin();
+	sort(vSort.begin(), vSort.end());
+	vSort.erase(unique(vSort.begin(), vSort.end()), vSort.end());
+	for (auto n : vNum) {
+		int cnt = lower_bound(vSort.begin(), vSort.end(), n) - vSort.begin();
 		cout << cnt << ' ';
 	}
 	cout << '\n';
